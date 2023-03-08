@@ -74,7 +74,7 @@
     color(1.056\paperwidth)=(beamerfooter1)
 }
 
-\setbeamertemplate{frametitle}{\vspace{20pt}\color{beamerfooter3}\textbf\insertframetitle}
+\setbeamertemplate{frametitle}{\vspace{5pt}\color{beamerfooter3}\textbf\insertframetitle}
 
 % ---- Bibliography Specifiers ----
 \setbeamertemplate{bibliography item}[text] % Regular numbering (Formal)
