@@ -105,7 +105,7 @@
 \setbeamercovered{transparent} % Transparent Text When Use "Pauses"!
 \setbeamertemplate{navigation symbols}%{default}
 
-\logo{\centering\includegraphics[height=1.0cm]{logo_EPFL.pdf}\vspace{10pt}\hspace{20pt}}
+\logo{\centering\includegraphics[height=1.0cm]{figures/logo_EPFL.pdf}\vspace{10pt}\hspace{20pt}}
 
 \addtobeamertemplate{footnote}{}{\vspace{1.5ex}}
 
