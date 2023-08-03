@@ -77,7 +77,7 @@
 \setbeamertemplate{frametitle}{\vspace{5pt}\color{beamerfooter3}\textbf\insertframetitle}
 
 % ---- Bibliography Specifiers ----
-\setbeamertemplate{bibliography item}[text] % Regular numbering (Formal)
+%\setbeamertemplate{bibliography item}[text] % Regular numbering (Formal)
 
 % ---- Itemize Specifier ----
 \setbeamertemplate{itemize items}[square]
